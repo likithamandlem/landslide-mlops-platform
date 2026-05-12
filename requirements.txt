@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+mlflow
+evidently==0.4.30
+numpy<2.0
+python-dotenv
+pydantic
